@@ -1,0 +1,8 @@
+{
+  "//": "This file is for deployment to vercel with GH actions.",
+  "version": 2,
+  "public": false,
+  "github": {
+    "enabled": false
+  }
+}
