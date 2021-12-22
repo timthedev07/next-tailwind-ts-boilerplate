@@ -10,4 +10,5 @@ cd next-tailwind-ts-boilerplate
 rm -rf README.md
 rm -rf .git
 git init
+yarn
 ```
