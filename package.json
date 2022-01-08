@@ -1,5 +1,5 @@
 {
-  "name": "next-app",
+  "name": "my-template-app",
   "private": true,
   "scripts": {
     "dev": "next dev",
